@@ -9,6 +9,11 @@ This project uses **MobileNetV2 + Custom CNN layers + Fine-tuning** to achieve s
 
 ---
 
+## Live Demo
+Try the model online: [ https://huggingface.co/spaces/gaurav5005/breedAi ]
+
+---
+
 # 📌 Features
 ✅ Pretrained MobileNetV2 (Imagenet)  
 ✅ Custom CNN layers for improved feature extraction  
