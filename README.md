@@ -1,4 +1,4 @@
-# 🐄 Cattle Breed Classification Using Hybrid MobileNetV2 + Custom CNN  
+# 🐄 lmage based breed recognition for cattle and buffaloes of India Using Hybrid MobileNetV2 + Custom CNN  
 A deep-learning based image classification system that identifies **three cattle breeds** with high accuracy:
 
 - 🐂 Gir  
